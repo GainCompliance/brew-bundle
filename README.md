@@ -6,3 +6,20 @@ The following will setup homebrew on your machine:
 ```shell
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
+
+### Steps
+#### Run Brewfile:
+
+```shell
+brew bundle Brewfile
+```
+
+#### Configure nvm
+```shell
+mkdir ~/.nvm
+```
+Add the following to your ~/.bash_profile:
+```shell
+export NVM_DIR="$HOME/.nvm"
+. "/usr/local/opt/nvm/nvm.sh"
+```

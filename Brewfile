@@ -1,0 +1,30 @@
+tap 'caskroom/cask'
+tap 'homebrew/bundle'
+tap 'homebrew/core'
+tap 'caskroom/drivers'
+
+brew 'mas'
+brew 'git'
+brew 'hub'
+
+brew 'nvm'
+cask 'java'
+brew 'maven'
+brew 'rbenv'
+brew 'ruby-build'
+brew 'rbenv-bundler'
+brew 'rbenv-default-gems'
+brew 'python'
+cask 'google-cloud-sdk'
+
+brew 'vim'
+cask 'atom'
+cask 'webstorm'
+
+cask 'google-chrome'
+cask 'brave'
+cask 'firefox'
+
+cask 'adobe-reader'
+cask 'postman'
+cask 'slack'
