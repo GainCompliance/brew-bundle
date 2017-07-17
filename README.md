@@ -11,7 +11,7 @@ The following will setup homebrew on your machine:
 #### Run Brewfile:
 
 ```shell
-brew bundle Brewfile
+brew bundle --file=Brewfile
 ```
 
 #### Configure nvm
