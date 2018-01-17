@@ -13,3 +13,5 @@ cask 'google-cloud-sdk'
 
 cask 'postman'
 cask 'slack'
+
+cask 'microsoft-office'
