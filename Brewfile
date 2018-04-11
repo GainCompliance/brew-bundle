@@ -6,6 +6,7 @@ tap 'caskroom/drivers'
 brew 'git'
 brew 'bash-completion'
 brew 'hub'
+brew 'tig'
 
 brew 'nvm'
 brew 'python'
