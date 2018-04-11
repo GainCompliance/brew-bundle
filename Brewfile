@@ -7,6 +7,7 @@ brew 'git'
 brew 'bash-completion'
 brew 'hub'
 brew 'tig'
+brew 'coreutils'
 
 brew 'nvm'
 brew 'python'
